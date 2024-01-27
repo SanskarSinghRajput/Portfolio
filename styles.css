@@ -447,6 +447,9 @@ img[src="./images/stack/Git.svg"]:hover {
   position: relative;
   left: 5.5%;
 }
+.project-05 {
+  background-image: url(./images/projects/Project5.jpg);
+}
 .project-number-right.number-left {
   left: -4%;
   width: fit-content;
